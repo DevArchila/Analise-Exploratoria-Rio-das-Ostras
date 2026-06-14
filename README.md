@@ -1,82 +1,143 @@
-# 📊 Análise Multidimensional de Rio das Ostras/RJ: Uma Abordagem Lean Six Sigma Yellow Belt (DMAIC)
-
-[![Lean Six Sigma](https://img.shields.io/badge/Metodologia-Lean%20Six%20Sigma%20%7C%20Yellow%20Belt-yellow)](https://github.com/)
-[![Analysis](https://img.shields.io/badge/Análise-Análise%20Exploratória%20de%20Dados-blue)]()
-[![Target](https://img.shields.io/badge/Foco-Gestão%20Pública%20%26%20Turismo-green)]()
-
-## 📌 Sobre o Projeto
-Este repositório contém um projeto de inteligência territorial e análise exploratória de dados focado no município de **Rio das Ostras/RJ**. O grande diferencial deste estudo é a aplicação prática da metodologia **DMAIC** (proveniente do Lean Six Sigma), comumente utilizado na indústria para melhoria de processos, transposto aqui para a **gestão pública estratégica e o desenvolvimento socioeconômico**.
-
-O objetivo principal foi diagnosticar a evolução dos indicadores macroeconômicos, turísticos e de segurança da cidade entre 2010 e 2024, comparando-a com seus principais *benchmarks* regionais (**Cabo Frio** e **Macaé**), para identificar as causas raiz da retração econômica local e propor soluções acionáveis.
+# 🌊 Diagnóstico Socioeconômico de Rio das Ostras (2010–2025)
+### Aplicação da metodologia DMAIC para análise de desenvolvimento turístico e econômico municipal
 
 ---
 
-## 🛠️ A metodologia DMAIC Aplicada
+## 📌 Sobre o projeto
 
-O projeto foi estruturado rigorosamente seguindo as fases do ciclo DMAIC, garantindo que nenhuma recomendação fosse baseada em intuição, mas sim em evidências estatísticas.
+Este projeto é uma análise comparativa entre **Rio das Ostras**, **Cabo Frio** e **Macaé** (Região dos Lagos, RJ), estruturada segundo a metodologia **DMAIC** (Define, Measure, Analyze, Improve, Control) do Lean Six Sigma.
 
-### 1. 🎯 DEFINE (Definir)
-Nesta etapa inicial, delimitou-se o escopo do projeto, os principais clientes (população, setor privado e prefeitura) e as suas dores reais através da ferramenta **VOC (Voice of Customer)** e do mapeamento de processos **SIPOC**.
-* **SIPOC Estruturado:** Mapeou-se os fornecedores de infraestrutura, os inputs públicos/privados, o processo de atração e permanência do turista e as saídas esperadas (geração de emprego, renda e IDH).
-* **Definição do Problema:** Identificação visual e estatística da queda expressiva na representatividade do turismo na geração de empregos formais da cidade e a necessidade de reverter esse cenário frente a flutuações de receitas de royalties do petróleo.
+O objetivo central é responder à pergunta:
 
-### 2. 📏 MEASURE (Medir)
-Estruturação da coleta de dados agregando bases de dados oficiais de múltiplas fontes confiáveis, cobrindo uma linha do tempo histórica (2010–2024).
-* **Matriz de Fontes:**
-    * *Demografia e Renda:* IBGE (Censos e Estimativas DOU).
-    * *Economia local:* IBGE (Sistema de Contas Regionais - PIB per capita).
-  <img width="875" height="556" alt="image" src="https://github.com/user-attachments/assets/47ddc05c-68af-4f80-ad44-c6171692224a" />
+> **Como Rio das Ostras pode desenvolver seu setor turístico, aumentar a arrecadação e o PIB per capita, ao mesmo tempo em que mantém os ganhos recentes em segurança pública?**
 
-    * *Mercado de Trabalho:* Ministério do Trabalho e Emprego / Novo CAGED (Empregos formais totais e no setor de turismo).
-    * *Segurança Pública:* ISP-RJ (Instituto de Segurança Pública).
-  <img width="486" height="365" alt="image" src="https://github.com/user-attachments/assets/ed4a2a9c-2d16-40b3-aef3-6c78dcb1ff03" />
-  
-    * *Demanda de Mercado:* Google Trends (Índice de Interesse Digital para hotéis e pousadas).
-* *Nota Metodológica:* Os valores monetários foram tratados nominalmente para comparação direta regional dentro do mesmo ano, e anos ausentes de censos foram estimados via interpolação linear padrão.
-
-### 3. 🔍 ANALYZE (Analisar)
-Fase dedicada à transformação de dados em insights e teste de hipóteses por meio de correlações lineares estatísticas (Coeficiente de Pearson).
-* **Descobertas Chave (Insights do Analyze):**
-    * **Turismo em Queda:** O número de empregos formais no turismo por 1k habitantes em Rio das Ostras caiu drasticamente de **4,88** para **2,18** (período 2010-2021). Em contrapartida, o benchmark Cabo Frio conseguiu expandir o indicador de **6,56** para **7,90** no mesmo período.
-    * **A Força do Digital:** Identificou-se uma **correlação de Pearson fortíssima (0,83)** entre o *Índice de Interesse Digital (Google Trends)* e o volume de *Empregos Formais no Turismo*. Menos presença digital da cidade correlaciona-se diretamente com o esvaziamento hoteleiro.
-    * **Paradoxo do Emprego Geral vs. Renda:** O total de empregos formais apresentou uma correlação fraca com o PIB per capita. Isso provou que a renda municipal é altamente dependente de setores de alto valor agregado (como o Petróleo historicamente e o Turismo potencialmente), e não da quantidade absoluta de vagas subalternas.
-    * **Dinâmica da Segurança Pública:** Furtos apresentaram uma correlação linear fortíssima com o emprego no turismo (**Pearson = 0,93**), sugerindo que a criminalidade contra o patrimônio acompanha o fluxo de visitantes. Roubos urbanos, por outro lado, não demonstraram correlação relevante (Pearson = 0,13), exigindo abordagens de segurança pública totalmente distintas no plano de ação.
-
-### 4. 💡 IMPROVE (Melhorar)
-A partir das causas raiz identificadas no Ishikawa e validadas estatisticamente no Analyze, foi desenvolvida uma **Matriz de Priorização de Ações baseada no esforço vs. impacto** e desdobrada em um plano de ação robusto focado no ciclo **PDSA** (Plan-Do-Study-Act).
-
-| Categoria | Causa Raiz Endereçada | Ação Proposta | Indicador-Alvo | Prioridade |
-| :--- | :--- | :--- | :--- | :---: |
-| **Gestão e Planejamento** | Ausência de estratégia municipal | Criar Plano Municipal de Turismo com metas anuais de ocupação hoteleira e arrecadação de ISS. | Empregos no Turismo / 1k hab | **P1 (Alto Impacto / Médio Esforço)** |
-| **Gestão e Planejamento** | Falta de incentivo ao setor | Programa de incentivo fiscal (redução de ISS por 24 meses) para novos negócios de hospedagem/lazer. | % Empregos Turismo | **P1 (Alto Impacto / Médio Esforço)** |
-| **Monitoramento e Dados** | Falta de inteligência de mercado | Estratégia de marketing digital municipal focada em dados do Google Trends, parcerias com influenciadores e SEO. | Índice de Interesse Digital | **P1 (Alto Impacto / Baixo Esforço)** |
-| **Infraestrutura Urbana** | Infraestrutura das orlas defasada | Revitalização física e de acessibilidade das principais praias e sinalização turística moderna. | Empregos no Turismo | **P2 (Alto Impacto / Alto Esforço)** |
-| **Capital Humano** | Mão de obra local desqualificada | Criação de programas municipais gratuitos de capacitação profissional em hotelaria e gastronomia. | IDHM Educação | **P2 (Médio Impacto / Médio Esforço)** |
-
-#### 🗺️ Roadmap de Implementação Proposto:
-* **Curto Prazo (0-6 meses):** Start nas campanhas de marketing digital regional e início do desenho do Plano Municipal de Turismo.
-* **Médio Prazo (6-18 meses):** Aprovação e vigência da lei de incentivo fiscal, reforço sazonal planejado de policiamento na orla (foco em coibir furtos) e implementação de painel público de indicadores (Control).
-* **Longo Prazo (18+ meses):** Entrega das obras de revitalização de infraestrutura e consolidação do calendário cultural fixo anual.
-
-### 5. 🎛️ CONTROL (Controlar)
-Para garantir que as melhorias implementadas na fase *Improve* sejam sustentáveis a longo prazo, o plano prevê a governança e o monitoramento contínuo:
-* **Revisão Anual do Plano:** Análise sistemática dos desvios de metas utilizando painéis ágeis de Business Intelligence (BI).
-* **Gatilhos de Ajuste:** Caso o Índice de Interesse Digital ou o número de novos CNPJs hoteleiros fique 15% abaixo da meta trimestral, aciona-se o plano de contingência de marketing focado nos principais polos emissores de turistas (capital e MG).
+O projeto combina **8 fontes de dados públicos** (IBGE, ISP-RJ, RAIS/MTE, PNUD, SICONFI, Google Trends), tratamento estatístico (correlação de Pearson, taxas por habitante, normalização entre municípios de tamanhos distintos) e visualização para chegar a um plano de ação fundamentado em evidências.
 
 ---
 
-## 📈 Principais Resultados e Conclusões
-* O estudo provou matematicamente que a crise socioeconômica de Rio das Ostras não decorre apenas de fatores externos (crise do petróleo), mas sim da **perda de tração e falta de posicionamento estratégico de seu segundo motor econômico: o turismo**.
-* A aplicação do **DMAIC** permitiu desmistificar problemas complexos de gestão pública, gerando um portfólio de ações cirúrgicas e priorizadas para maximizar o retorno sobre o investimento municipal.
+## 🧭 Metodologia: DMAIC
+
+| Fase | O que foi feito |
+|---|---|
+| **Define** | SIPOC, VOC (Voice of Customer) e fluxograma causal — identificando o morador como cliente principal e "qualidade de vida" como output central |
+| **Measure** | Coleta, limpeza e documentação de 8 indicadores ao longo de até 22 anos, com notas metodológicas e limitações explícitas |
+| **Analyze** | Respostas às hipóteses do Define com base em dados reais, cálculo de correlações de Pearson e Diagrama de Ishikawa |
+| **Improve** | Matriz de priorização de ações (PDSA) derivadas diretamente das causas raiz identificadas |
+| **Control** | Indicadores de monitoramento e roadmap de curto, médio e longo prazo |
 
 ---
 
-## 📂 Estrutura do Repositório
-```bash
-├── data/
-│   ├── DEFINE.csv                # Dados de escopo, SIPOC e VOC
-│   ├── MEASURE_FONTES.csv         # Metadados, links de fontes e notas metodológicas
-│   ├── ANALYZE.csv               # Matrizes de correlação de Pearson e testes de hipóteses
-│   ├── IMPROVE.csv               # Matriz de priorização de ações e roadmap PDSA
-│   └── [Demais planilhas de dados brutos: PIB, IDHM, Violência, Empregos, População]
-├── README.md                     # Documentação principal do projeto
+## 📊 Principais achados
+
+### 1. Crescimento populacional explosivo, mas instável
+
+Rio das Ostras cresceu **238%** entre 2006 e 2025 — um crescimento muito acima de Cabo Frio (+47%) e Macaé (+52%). Esse boom está diretamente ligado à expansão da indústria do petróleo na Bacia de Campos, que transformou RO em uma "cidade dormitório" para trabalhadores do setor.
+
+![Crescimento populacional](charts/03_populacao.png)
+
+---
+
+### 2. PIB per capita: o boom e o colapso do pré-sal
+
+Entre 2010 e 2014, o PIB per capita de Rio das Ostras chegou a ser o **maior dos três municípios** (pico de R$ 128 mil em 2012). Com a crise da Petrobras (2014–2016), o PIB per capita despencou **72% em apenas 4 anos** — a queda mais abrupta entre as três cidades. Em 2023, RO está atrás de Cabo Frio e Macaé.
+
+![PIB per capita](charts/01_pib_per_capita.png)
+
+---
+
+### 3. Empregos no turismo: a divergência estrutural
+
+Ao normalizar por mil habitantes, RO e Cabo Frio começaram em patamares parecidos em 2010 (4,9 vs 6,6). Mas enquanto CF **cresceu** sua base de empregos formais em turismo, RO **caiu 55%** entre 2013 e 2021 — e nunca se recuperou. A distância entre as duas cidades só aumentou.
+
+![Empregos no turismo](charts/02_empregos_turismo.png)
+
+---
+
+### 4. Segurança pública: a melhor notícia do projeto
+
+Furtos, roubos e homicídios dolosos em RO caíram de forma consistente, ficando **abaixo da média da Região dos Lagos a partir de 2024** — um resultado positivo real.
+
+![Violência](charts/04_violencia.png)
+
+---
+
+### 5. IDHM: o salto educacional
+
+O IDHM de Rio das Ostras saiu de **0,659 (2000)** para **0,797 (2021)** — a maior evolução entre as três cidades, ultrapassando Cabo Frio e Macaé já em 2010. O destaque é o subíndice de **Educação**, que cresceu **38%** no período — embora ainda seja o componente mais fraco do IDHM da cidade, representando a maior oportunidade de melhoria.
+
+![IDHM](charts/05_idhm.png)
+
+---
+
+## 🔗 Correlações identificadas (Pearson)
+
+| Variáveis | Pearson | Interpretação |
+|---|---|---|
+| PIB per capita × Empregos no Turismo | **0,80** | Correlação forte — turismo tem peso desproporcional na renda per capita |
+| PIB per capita × Empregos Totais | 0,31 | Correlação fraca — emprego genérico não explica o PIB |
+| Interesse Digital × Empregos no Turismo | **0,83** | Correlação forte — visibilidade digital acompanha a saúde do setor |
+| Furtos × Empregos no Turismo | **0,93** | Correlação muito forte — furto é majoritariamente crime de oportunidade ligado ao turismo |
+| Roubos × Empregos no Turismo | 0,13 | Correlação quase nula — roubo segue dinâmica própria, não relacionada ao turismo |
+
+> ⚠️ **Nota metodológica:** os coeficientes foram calculados com amostras pequenas (n = 8 a 12 observações anuais). Dado que várias séries compartilham tendência declinante no período 2013–2021, os valores devem ser interpretados como **indicativos de associação**, não de causalidade.
+
+---
+
+## 🐟 Diagrama de Ishikawa
+
+**Pergunta central:** Por que os empregos formais no setor de turismo de Rio das Ostras caíram 55% entre 2013 e 2021?
+
+![Diagrama de Ishikawa](charts/07_ishikawa.png)
+
+As causas foram agrupadas em 6 categorias adaptadas para o contexto de gestão pública (em vez do tradicional 6M industrial):
+
+- **Gestão e Planejamento** — ausência de estratégia municipal de turismo
+- **Conjuntura Econômica** *(fora do controle municipal)* — crise da Petrobras 2014-2016
+- **Monitoramento e Dados** — sem KPIs de turismo definidos
+- **Capital Humano** — qualificação atrelada ao setor petróleo
+- **Infraestrutura Urbana** — pontos turísticos sem manutenção
+- **Oferta e Posicionamento** — identidade fraca como destino turístico
+
+---
+
+## 🎯 Plano de Ação (Improve)
+
+As recomendações seguem o ciclo **PDSA (Plan-Do-Study-Act)** e foram priorizadas em uma matriz de Impacto × Esforço:
+
+| Prioridade | Ação | Indicador-alvo |
+|---|---|---|
+| **P1** | Estratégia de marketing digital municipal | Índice de Interesse Digital (Google Trends) |
+| **P1** | Incentivo fiscal (ISS reduzido) para hospedagem/lazer | Empregos no Turismo / 1k hab |
+| **P1** | Cadastramento assistido em plataformas (Booking, Airbnb) | Empregos no Turismo / 1k hab |
+| **P2** | Revitalização da orla | Arrecadação per capita |
+| **P2** | Reforço sazonal de policiamento turístico | Furtos / 100k hab |
+| **P3** | Educação técnica em turismo e hospitalidade | IDHM — Educação |
+
+---
+
+## 🗂️ Fontes de dados
+
+| Indicador | Fonte | Período |
+|---|---|---|
+| População | IBGE — Censos + Estimativas Anuais (DOU) | 1996–2025 |
+| PIB per capita | IBGE — Sistema de Contas Regionais (Tabela 5938) | 2010–2023 |
+| Violência | ISP-RJ — Base Municipal Mensal | 2014–2025 |
+| IDHM | PNUD/Atlas do Desenvolvimento Humano no Brasil | 2000, 2010, 2021 |
+| Empregos no Turismo | MTE — RAIS via Base dos Dados | 2010–2021 |
+| Arrecadação Municipal | SICONFI — Tesouro Nacional | 2013–2024 |
+| Interesse Digital | Google Trends | 2004–2025 |
+
+Todas as fontes, notas metodológicas e limitações estão documentadas na aba **MEASURE & FONTES** da planilha.
+
+---
+
+## 🛠️ Ferramentas utilizadas
+
+- **Excel** — tratamento de dados, tabelas dinâmicas, gráficos, cálculo de correlações
+- **Lean Six Sigma (DMAIC)** — estrutura metodológica do projeto
+- **Google Trends** — proxy de demanda turística digital
+- **APIs e bases públicas** — IBGE (SIDRA), ISP-RJ, Base dos Dados (RAIS), SICONFI, Atlas Brasil
+
+---
+
+## 📁 Estrutura do repositório
