@@ -19,7 +19,7 @@ O projeto combina **8 fontes de dados públicos** (IBGE, ISP-RJ, RAIS/MTE, PNUD,
 
 | Fase | O que foi feito |
 |---|---|
-| **Define** | SIPOC, VOC (Voice of Customer) e fluxograma causal — identificando o morador como cliente principal e "qualidade de vida" como output central |
+| **Define** | SIPOC, VOC (Voice of Customer) e fluxograma causal, identificando o morador como cliente principal e "qualidade de vida" como output central |
 | **Measure** | Coleta, limpeza e documentação de 8 indicadores ao longo de até 22 anos, com notas metodológicas e limitações explícitas |
 | **Analyze** | Respostas às hipóteses do Define com base em dados reais, cálculo de correlações de Pearson e Diagrama de Ishikawa |
 | **Improve** | Matriz de priorização de ações (PDSA) derivadas diretamente das causas raiz identificadas |
