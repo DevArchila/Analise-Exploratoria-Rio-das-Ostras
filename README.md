@@ -1,17 +1,17 @@
-# 📊 Análise Multidimensional de Rio das Ostras/RJ: Uma Abordagem Lean Six Sigma Yellow Belt (Framework DMAIC)
+# 📊 Análise Multidimensional de Rio das Ostras/RJ: Uma Abordagem Lean Six Sigma Yellow Belt (DMAIC)
 
 [![Lean Six Sigma](https://img.shields.io/badge/Metodologia-Lean%20Six%20Sigma%20%7C%20Yellow%20Belt-yellow)](https://github.com/)
-[![Analysis](https://img.shields.io/badge/Analise-Análise%20Exploratória%20de%20Dados-blue)]()
+[![Analysis](https://img.shields.io/badge/Análise-Análise%20Exploratória%20de%20Dados-blue)]()
 [![Target](https://img.shields.io/badge/Foco-Gestão%20Pública%20%26%20Turismo-green)]()
 
 ## 📌 Sobre o Projeto
-Este repositório contém um projeto de inteligência territorial e análise exploratória de dados focado no município de **Rio das Ostras/RJ**. O grande diferencial deste estudo é a aplicação prática do framework **DMAIC** (proveniente da metodologia Lean Six Sigma), comumente utilizado na indústria para melhoria de processos, transposto aqui para a **gestão pública estratégica e o desenvolvimento socioeconômico**.
+Este repositório contém um projeto de inteligência territorial e análise exploratória de dados focado no município de **Rio das Ostras/RJ**. O grande diferencial deste estudo é a aplicação prática da metodologia **DMAIC** (proveniente do Lean Six Sigma), comumente utilizado na indústria para melhoria de processos, transposto aqui para a **gestão pública estratégica e o desenvolvimento socioeconômico**.
 
 O objetivo principal foi diagnosticar a evolução dos indicadores macroeconômicos, turísticos e de segurança da cidade entre 2010 e 2024, comparando-a com seus principais *benchmarks* regionais (**Cabo Frio** e **Macaé**), para identificar as causas raiz da retração econômica local e propor soluções acionáveis.
 
 ---
 
-## 🛠️ O Framework DMAIC Aplicado
+## 🛠️ A metodologia DMAIC Aplicada
 
 O projeto foi estruturado rigorosamente seguindo as fases do ciclo DMAIC, garantindo que nenhuma recomendação fosse baseada em intuição, mas sim em evidências estatísticas.
 
