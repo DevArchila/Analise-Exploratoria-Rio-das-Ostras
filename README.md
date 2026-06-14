@@ -109,9 +109,10 @@ As recomendações seguem o ciclo **PDSA (Plan-Do-Study-Act)** e foram priorizad
 | **P1** | Estratégia de marketing digital municipal | Índice de Interesse Digital (Google Trends) |
 | **P1** | Incentivo fiscal (ISS reduzido) para hospedagem/lazer | Empregos no Turismo / 1k hab |
 | **P1** | Cadastramento assistido em plataformas (Booking, Airbnb) | Empregos no Turismo / 1k hab |
-| **P2** | Revitalização da orla | Arrecadação per capita |
+| **P2** | Revitalização da orla e pontos turísticos | Arrecadação per capita |
 | **P2** | Reforço sazonal de policiamento turístico | Furtos / 100k hab |
 | **P3** | Educação técnica em turismo e hospitalidade | IDHM — Educação |
+| **P3** | Calendário cultural anual (eventos, festivais) para reduzir sazonalidade | Índice de Interesse Digital / Empregos no Turismo |
 
 ---
 
