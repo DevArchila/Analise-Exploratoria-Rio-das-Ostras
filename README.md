@@ -138,7 +138,3 @@ Todas as fontes, notas metodológicas e limitações estão documentadas na aba 
 - **Lean Six Sigma (DMAIC)** — estrutura metodológica do projeto
 - **Google Trends** — proxy de demanda turística digital
 - **APIs e bases públicas** — IBGE (SIDRA), ISP-RJ, Base dos Dados (RAIS), SICONFI, Atlas Brasil
-
----
-
-## 📁 Estrutura do repositório
