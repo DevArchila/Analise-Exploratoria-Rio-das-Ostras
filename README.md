@@ -87,7 +87,7 @@ O IDHM de Rio das Ostras saiu de **0,659 (2000)** para **0,797 (2021)**, a maior
 
 **Pergunta central:** Por que os empregos formais no setor de turismo de Rio das Ostras caíram 55% entre 2013 e 2021?
 
-![Diagrama de Ishikawa](charts/07_ishikawa.png)
+<img width="1664" height="697" alt="Diagrama de Ishikawa" src="https://github.com/user-attachments/assets/3651bb2e-b640-47f7-9416-7fe35afc9a74" />
 
 As causas foram agrupadas em 6 categorias adaptadas para o contexto de gestão pública (em vez do tradicional 6M industrial):
 
