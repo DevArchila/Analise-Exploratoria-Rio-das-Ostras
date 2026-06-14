@@ -1,7 +1,7 @@
 # 📊 Análise Multidimensional de Rio das Ostras/RJ: Uma Abordagem Lean Six Sigma Yellow Belt (Framework DMAIC)
 
 [![Lean Six Sigma](https://img.shields.io/badge/Metodologia-Lean%20Six%20Sigma%20%7C%20Yellow%20Belt-yellow)](https://github.com/)
-[![Analysis](https://img.shields.io/badge/Analise-Exploratória%20Data%20Analysis-blue)]()
+[![Analysis](https://img.shields.io/badge/Analise-Análise%20Exploratória%20de%20Dados-blue)]()
 [![Target](https://img.shields.io/badge/Foco-Gestão%20Pública%20%26%20Turismo-green)]()
 
 ## 📌 Sobre o Projeto
