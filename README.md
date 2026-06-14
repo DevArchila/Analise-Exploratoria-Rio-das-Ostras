@@ -1,4 +1,4 @@
-# 🌊 Diagnóstico Socioeconômico de Rio das Ostras (2010–2025)
+# Diagnóstico Socioeconômico de Rio das Ostras (2010–2025)
 ### Aplicação da metodologia DMAIC para análise de desenvolvimento turístico e econômico municipal
 
 ---
