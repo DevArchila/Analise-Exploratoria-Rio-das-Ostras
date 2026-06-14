@@ -31,17 +31,17 @@ O projeto combina **8 fontes de dados públicos** (IBGE, ISP-RJ, RAIS/MTE, PNUD,
 
 ### 1. Crescimento populacional explosivo, mas instável
 
-Rio das Ostras cresceu **238%** entre 2006 e 2025 — um crescimento muito acima de Cabo Frio (+47%) e Macaé (+52%). Esse boom está diretamente ligado à expansão da indústria do petróleo na Bacia de Campos, que transformou RO em uma "cidade dormitório" para trabalhadores do setor.
+Rio das Ostras cresceu **238%** entre 2006 e 2025, um crescimento muito acima de Cabo Frio (+47%) e Macaé (+52%). Esse boom está diretamente ligado à expansão da indústria do petróleo na Bacia de Campos, que transformou RO em uma "cidade dormitório" para trabalhadores do setor.
 
-![Crescimento populacional](charts/03_populacao.png)
+<img width="750" height="482" alt="Crescimento_populacional" src="https://github.com/user-attachments/assets/bb22dba1-f098-4a23-9e0f-60102290a7c2" />
 
 ---
 
 ### 2. PIB per capita: o boom e o colapso do pré-sal
 
-Entre 2010 e 2014, o PIB per capita de Rio das Ostras chegou a ser o **maior dos três municípios** (pico de R$ 128 mil em 2012). Com a crise da Petrobras (2014–2016), o PIB per capita despencou **72% em apenas 4 anos** — a queda mais abrupta entre as três cidades. Em 2023, RO está atrás de Cabo Frio e Macaé.
+Entre 2010 e 2014, o PIB per capita de Rio das Ostras chegou a ser o **maior dos três municípios** (pico de R$ 128 mil em 2012). Com a crise da Petrobras (2014–2016), o PIB per capita despencou **72% em apenas 4 anos**, a queda mais abrupta entre as três cidades. Em 2023, RO está atrás de Cabo Frio e Macaé.
 
-![PIB per capita](charts/01_pib_per_capita.png)
+<img width="875" height="556" alt="PIB per capita" src="https://github.com/user-attachments/assets/dc3efead-61c9-404d-94e5-834c0e3c3457" />
 
 ---
 
@@ -49,23 +49,23 @@ Entre 2010 e 2014, o PIB per capita de Rio das Ostras chegou a ser o **maior dos
 
 Ao normalizar por mil habitantes, RO e Cabo Frio começaram em patamares parecidos em 2010 (4,9 vs 6,6). Mas enquanto CF **cresceu** sua base de empregos formais em turismo, RO **caiu 55%** entre 2013 e 2021 — e nunca se recuperou. A distância entre as duas cidades só aumentou.
 
-![Empregos no turismo](charts/02_empregos_turismo.png)
+<img width="919" height="474" alt="Empregos Formais" src="https://github.com/user-attachments/assets/5dd0079e-7696-4846-8f2c-79d066b7bf7b" />
 
 ---
 
 ### 4. Segurança pública: a melhor notícia do projeto
 
-Furtos, roubos e homicídios dolosos em RO caíram de forma consistente, ficando **abaixo da média da Região dos Lagos a partir de 2024** — um resultado positivo real.
+Furtos, roubos e homicídios dolosos em RO caíram de forma consistente, ficando **abaixo da média da Região dos Lagos a partir de 2024**, um resultado positivo real.
 
-![Violência](charts/04_violencia.png)
+<img width="1586" height="362" alt="Violência" src="https://github.com/user-attachments/assets/1e48520d-c729-4d86-b590-3311507983fe" />
 
 ---
 
 ### 5. IDHM: o salto educacional
 
-O IDHM de Rio das Ostras saiu de **0,659 (2000)** para **0,797 (2021)** — a maior evolução entre as três cidades, ultrapassando Cabo Frio e Macaé já em 2010. O destaque é o subíndice de **Educação**, que cresceu **38%** no período — embora ainda seja o componente mais fraco do IDHM da cidade, representando a maior oportunidade de melhoria.
+O IDHM de Rio das Ostras saiu de **0,659 (2000)** para **0,797 (2021)**, a maior evolução entre as três cidades, ultrapassando Cabo Frio e Macaé já em 2010. O destaque é o subíndice de **Educação**, que cresceu **38%** no período, embora ainda seja o componente mais fraco do IDHM da cidade, representando a maior oportunidade de melhoria.
 
-![IDHM](charts/05_idhm.png)
+<img width="1152" height="415" alt="IDHM" src="https://github.com/user-attachments/assets/1200301e-90b4-4c81-bffc-d67edc008591" />
 
 ---
 
