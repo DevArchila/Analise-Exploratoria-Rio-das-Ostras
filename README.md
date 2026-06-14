@@ -25,6 +25,8 @@ Estruturação da coleta de dados agregando bases de dados oficiais de múltipla
 * **Matriz de Fontes:**
     * *Demografia e Renda:* IBGE (Censos e Estimativas DOU).
     * *Economia local:* IBGE (Sistema de Contas Regionais - PIB per capita).
+  <img width="875" height="556" alt="image" src="https://github.com/user-attachments/assets/47ddc05c-68af-4f80-ad44-c6171692224a" />
+
     * *Mercado de Trabalho:* Ministério do Trabalho e Emprego / Novo CAGED (Empregos formais totais e no setor de turismo).
     * *Segurança Pública:* ISP-RJ (Instituto de Segurança Pública).
   <img width="486" height="365" alt="image" src="https://github.com/user-attachments/assets/ed4a2a9c-2d16-40b3-aef3-6c78dcb1ff03" />
